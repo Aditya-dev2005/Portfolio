@@ -89,7 +89,7 @@ const experiences: Experience[] = [
   {
     company: "Coforge",
     role: "Software Engineering Intern",
-    period: "June 2026 - May 2027",
+    period: "July 2026 - May 2027",
     type: "Internship • Hybrid / On-site",
     status: "upcoming",
     logo: "/logos/coforge.webp",
