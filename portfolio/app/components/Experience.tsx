@@ -71,22 +71,6 @@ const experiences: Experience[] = [
     tags: ["Kafka", "Spring Boot", "REST APIs", "Java"],
   },
   {
-    company: "Bricks & Pixels AI",
-    role: "Research & Execution Intern",
-    period: "May - July 2025",
-    type: "Internship • Remote",
-    status: "completed",
-    logo: "/logos/bnpai.webp",
-    logoBg: "#0a0e1a",
-    color: "#4FFFB0",
-    bullets: [
-      "Worked on project-based research and execution tasks assigned independently within defined timelines.",
-      "Participated in weekly progress and update reviews as part of structured remote workflow.",
-      "Delivered research outputs and execution milestones under the revised project-based internship structure.",
-    ],
-    tags: ["AI Research", "Remote", "Project-Based", "Independent Execution"],
-  },
-  {
     company: "Coforge",
     role: "Software Engineering Intern",
     period: "July 2026 - May 2027",
