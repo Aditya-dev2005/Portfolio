@@ -21,7 +21,7 @@ const quickFacts = [
   { label: "University", value: "JIIT Noida" },
   { label: "Degree", value: "B.Tech CS" },
   { label: "Graduation", value: "July 2027" },
-  { label: "CGPA", value: "7.45 / 10" },
+  { label: "CGPA", value: "7.5 / 10" },
   { label: "Location", value: "Noida, India" },
   { label: "Email", value: "adichat571@gmail.com" },
 ];
